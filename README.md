@@ -1,2 +1,2 @@
 # blogImage
-Store pictures in notes
+Storing images from notes
